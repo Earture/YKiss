@@ -25,4 +25,6 @@ No | Description
   just burning the YKiss.ino to Arduino Uno
   
 ### STEP 3 : connect the 20PIN to Arduino
-  from the 
+  from the <a href="https://github.com/Amehinou/YKiss/blob/master/yamahayk01sm.pdf">yamahayk01sm</a> document we can get the detail of  YK-10's 20PIN interface.
+  
+  just you see,the keyboard don't have any chips,but a pure matrix keyboard,
