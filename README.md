@@ -6,8 +6,7 @@ convert the Yamaha YK-10/20/01 to a MIDI Keyboard by only using a arduino uno
     <img width=50% src="">
   </a> 
 </p>
-Yamaha YK-10 Keyboard is a optional part for the Yamaha CX5M Music Computer which is a great meachine with FM model builed in.
-but the keyboard only has a 20PIN interface,
+Yamaha YK-10 (YK-01/20) Keyboard is a optional part for the Yamaha CX5M Music Computer which is a great meachine with FM model builed in.but the keyboard only has a 20PIN interface,therefor we can use YKiss to add MIDI interface and making the nice keyboard GREAT AGAIN !
 
 ## Material
 
