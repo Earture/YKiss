@@ -19,4 +19,10 @@ No | Description
 ## GUIDE
 
 ### STEP 1 : burn the MIDI firmware for Arduino Uno
-  we use the great project <href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behive as a USB MIDI Driver
+  we use the great project <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behive as a USB MIDI Driver
+
+### STEP 2 : using the Arduino IDE to update program
+  just burning the YKiss.ino to Arduino Uno
+  
+### STEP 3 : connect the 20PIN to Arduino
+  from the 
