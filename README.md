@@ -11,9 +11,12 @@ convert the Yamaha YK-10 to a MIDI Keyboard by only using a arduino uno
 
 No | Description 
 ---|-----------
-1 | ESP-8266 microcontroller 
-2 | DIN 5-pin female connector 
-3 | Resistor 33Ω 1/4W 5% 
-4 | Resistor 10Ω 1/4W 5% 
+1 | Arduino UNO R3
+2 | Wire jumper
+3 | Resistor 20KΩ 
+4 | Breadboard 
 
 ## GUIDE
+
+### STEP 1 : burn the MIDI firmware for Arduino Uno
+  we use the great project <href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behive as a USB MIDI Driver
