@@ -33,11 +33,14 @@ No | Description
 20PIN | UNO
 ---|-----------
 11 to 16 | A0 to A5
-2to10 | 2to10
+2 to 10 | 2 to 10
 * pleas connect 10K Pull-down resistor to all used PIN
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/YKiss.jpg">
+  <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/connect.jpg">
     <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/connect.jpg">
+    <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/20PIN.jpg">
+  </a> 
+   <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/20PIN.jpg">
     <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/20PIN.jpg">
   </a> 
 </p>
