@@ -38,7 +38,6 @@ No | Description
 <p align="center">
   <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/connect.jpg">
     <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/connect.jpg">
-    <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/20PIN.jpg">
   </a> 
    <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/20PIN.jpg">
     <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/20PIN.jpg">
@@ -55,3 +54,7 @@ No | Description
 #### <a href="http://www.codetinkerhack.com/2012/11/how-to-turn-piano-toy-into-midi.html?m=1">Code Tinker Hack</a>
 #### <a href="https://groups.google.com/forum/#!topic/london-hack-space/lhE5M1SvkMQ">London Hackspaceck</a>
 #### <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a>
+
+## I'm a 8bit fan，you can contact me ！
+my website is <a href="https://earture.org>Earture.org</a>
+
