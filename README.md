@@ -34,6 +34,11 @@ No | Description
 11 ~ 16 | A0 ~ A5
 2 ~ 10 | 2 ~ 10
 
+20PIN | Description 
+---|-----------
+11to16 | Arduino UNO R3*
+2 | Wire jumper
+
 
 ### STEP 4 : enjoy the YK-10 with Ykiss just as a normal midi keyboard !
   don't need MIDI cable*,just use the USB to connet to your PC,of course you should uninstall the jumper between pin4 and pin6 first !
