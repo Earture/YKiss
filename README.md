@@ -30,7 +30,7 @@ No | Description
   please see the <a href="https://www.arduino.cc/en/Hacking/DFUProgramming8U2">offical doc</a> for how to use DFU to burn firmware
 
 ### STEP 2 : using the Arduino IDE to update program
-  just burning the YKiss.ino to Arduino Uno,before connecting Uno to PC, don't forget to install a jumper between pin4 and pin6 on ICSP connector for Mega8u2/16U2 when you buring the program. 
+  just burning the YKiss.ino to Arduino Uno,before connecting Uno to PC, don't forget to install <a href="http://morecatlab.akiba.coocan.jp/lab/wp-content/uploads/2013/09/IMGP9378-150x150.jpg">a jumper between pin4 and pin6 on ICSP connector </a>for Mega8u2/16U2 when you buring the program. 
   
 ### STEP 3 : connect the 20PIN to Arduino
   from the <a href="https://github.com/Amehinou/YKiss/blob/master/yamahayk01sm.pdf">yamahayk01sm</a> document we can get the detail of  YK-10's 20PIN interface.just you see,the keyboard don't have any chips,but a pure matrix keyboard,so it makes things easier！
