@@ -1,4 +1,4 @@
-name: Build examples
+name: YKiss
 on: push
 jobs:
   build:
