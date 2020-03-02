@@ -12,11 +12,12 @@ Yamaha YK-10 (YK-01/20) Keyboard is a optional part for the Yamaha CX5M Music Co
 
 No | Description 
 ---|-----------
-1 | Arduino UNO R3
+1 | Arduino UNO R3*
 2 | Wire jumper
 3 | Resistor 20KΩ 
 4 | Breadboard 
 
+ * please don't use the chinese chiper editon of arduino UNO, for the Mega16U2 is replace by the CH130 usb to serial chip.
 ## GUIDE
 
 ### STEP 1 : burn the MIDI firmware for Arduino Uno
