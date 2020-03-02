@@ -1,4 +1,4 @@
-# 🌊YKiss
+# 🌊YKiss ![Build Status](https://github.com/Amehinou/YKiss/workflows/YKiss/badge.svg)
 convert the Yamaha YK-10/20/01 🎹 to a MIDI Keyboard by only using a arduino uno
 
 <p align="center">
