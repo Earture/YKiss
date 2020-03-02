@@ -35,6 +35,12 @@ No | Description
 11to16 | A0toA5
 2to10 | 2to10
 * pleas connect 10K Pull-down resistor to all used PIN
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/YKiss.jpg">
+    <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/connect.jpg">
+    <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/20PIN.jpg">
+  </a> 
+</p>
 ### STEP 4 : enjoy the YK-10 with Ykiss just as a normal midi keyboard !
   don't need MIDI cable*,just use the USB to connet to your PC,of course you should uninstall the jumper between pin4 and pin6 first !
   just you see,the keyboard don't have any chips,but a pure matrix keyboard,
