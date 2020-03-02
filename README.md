@@ -29,10 +29,11 @@ No | Description
   
 ### STEP 3 : connect the 20PIN to Arduino
   from the <a href="https://github.com/Amehinou/YKiss/blob/master/yamahayk01sm.pdf">yamahayk01sm</a> document we can get the detail of  YK-10's 20PIN interface.
+  
 20PIN | UNO
 ---|-----------
-11 to 16 | A0 to A5
-2 to 10 | 2 to 10
+11to16 | A0toA5
+2to10 | 2to10
 
 
 ### STEP 4 : enjoy the YK-10 with Ykiss just as a normal midi keyboard !
