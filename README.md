@@ -40,3 +40,8 @@ No | Description
   just you see,the keyboard don't have any chips,but a pure matrix keyboard,
   
  * if you want to use MIDI OUTPUT cable connecting other MIDI Driver,you can make it yourself by using the TX pin
+ 
+## THANKS
+#### <a href="http://www.codetinkerhack.com/2012/11/how-to-turn-piano-toy-into-midi.html?m=1">Code Tinker Hack</a>
+#### <a href="https://groups.google.com/forum/#!topic/london-hack-space/lhE5M1SvkMQ">London Hackspaceck</a>
+#### <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a>
