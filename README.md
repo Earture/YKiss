@@ -17,7 +17,7 @@ No | Description
 3 | Resistor 20KΩ 
 4 | Breadboard 
 
- * please don't use the chinese chiper editon of arduino UNO, for the Mega16U2 is replace by the CH130 usb to serial chip.
+ * please don't use the chinese chiper editon of arduino UNO, for the Mega16U2 was replaced by the CH130 usb to serial chip.
 ## GUIDE
 
 ### STEP 1 : burn the MIDI firmware for Arduino Uno
@@ -25,9 +25,13 @@ No | Description
   #### download the dualMocoLUFA firmware: <a href="https://github.com/Amehinou/YKiss/blob/master/YKiss/dualMoco.hex">Mega16U2</a>
 
 ### STEP 2 : using the Arduino IDE to update program
-  just burning the YKiss.ino to Arduino Uno
+  just burning the YKiss.ino to Arduino Uno,before connect Uno to PC, don't forget to install a jumper between pin4 and pin6 on ICSP connector for Mega8u2/16U2 when you buring the program. 
   
 ### STEP 3 : connect the 20PIN to Arduino
   from the <a href="https://github.com/Amehinou/YKiss/blob/master/yamahayk01sm.pdf">yamahayk01sm</a> document we can get the detail of  YK-10's 20PIN interface.
-  
+
+### STEP 4 : enjoy the YK-10 with Ykiss just as a normal midi keyboard !
+  don't need MIDI cable*,just use the USB to connet to your PC,of course you should uninstall the jumper between pin4 and pin6 first !
   just you see,the keyboard don't have any chips,but a pure matrix keyboard,
+  
+ * if you want to use MIDI OUTPUT cable connecting other MIDI Driver,you can make it yourself by using the TX pin
