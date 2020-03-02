@@ -21,6 +21,7 @@ No | Description
 
 ### STEP 1 : burn the MIDI firmware for Arduino Uno
   we use the great project <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behive as a USB MIDI Driver,first you should follow the guide in <a href="http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en">morecat_lab</a> ,Install the dualMocoLUFA firmware to Mega8u2/16U2
+  #### download the dualMocoLUFA firmware: <a href="https://github.com/Amehinou/YKiss/blob/master/YKiss/dualMoco.hex">Mega16U2</a>
 
 ### STEP 2 : using the Arduino IDE to update program
   just burning the YKiss.ino to Arduino Uno
