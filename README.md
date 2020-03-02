@@ -22,13 +22,13 @@ No | Description
 
 ### STEP 1 : burn the MIDI firmware for Arduino Uno
   we use the great project <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behaved as a USB MIDI Device,first you should follow the guide in <a href="http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en">morecat_lab</a> ,Installing the dualMocoLUFA firmware to Mega8u2/16U2
-  #### download the dualMocoLUFA firmware: <a href="https://raw.githubusercontent.com/Amehinou/YKiss/blob/master/YKiss/dualMoco.hex">Mega16U2</a>
+  #### download the dualMocoLUFA firmware: <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/YKiss/dualMoco.hex">Mega16U2</a>
 
 ### STEP 2 : using the Arduino IDE to update program
-  just burning the YKiss.ino to Arduino Uno,before connect Uno to PC, don't forget to install a jumper between pin4 and pin6 on ICSP connector for Mega8u2/16U2 when you buring the program. 
+  just burning the YKiss.ino to Arduino Uno,before connecting Uno to PC, don't forget to install a jumper between pin4 and pin6 on ICSP connector for Mega8u2/16U2 when you buring the program. 
   
 ### STEP 3 : connect the 20PIN to Arduino
-  from the <a href="https://github.com/Amehinou/YKiss/blob/master/yamahayk01sm.pdf">yamahayk01sm</a> document we can get the detail of  YK-10's 20PIN interface.
+  from the <a href="https://github.com/Amehinou/YKiss/blob/master/yamahayk01sm.pdf">yamahayk01sm</a> document we can get the detail of  YK-10's 20PIN interface.just you see,the keyboard don't have any chips,but a pure matrix keyboard,so it makes things easier！
   
 20PIN | UNO
 ---|-----------
@@ -45,10 +45,9 @@ No | Description
 </p>
 
 ### STEP 4 : enjoy the YK-10 with Ykiss just as a normal midi keyboard !
-  don't need MIDI cable*,just use the USB to connet to your PC,of course you should uninstall the jumper between pin4 and pin6 first !
-  just you see,the keyboard don't have any chips,but a pure matrix keyboard,
-  
- * if you want to use MIDI OUTPUT cable connecting other MIDI Driver,you can make it yourself by using the TX pin
+  don't need MIDI cable*,just useing the USB to connet to your PC,of course you should uninstall the jumper between pin4 and pin6 first !
+ 
+ * if you want to use MIDI OUTPUT cable to connect other MIDI Drvice,you can make it yourself by using the TX pin
  
 ## 👍THANKS
 #### <a href="http://www.codetinkerhack.com/2012/11/how-to-turn-piano-toy-into-midi.html?m=1">Code Tinker Hack</a>
