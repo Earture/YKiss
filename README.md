@@ -6,7 +6,7 @@ convert the Yamaha YK-10/20/01 🎹 to a MIDI Keyboard by only using a arduino u
     <img width=100% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/YKiss.jpg">
   </a> 
 </p>
-Yamaha YK-10 (YK-01/20) Keyboard is a optional part for the Yamaha CX5M Music Computer which is a great meachine with FM model builed in.but the keyboard only has a 20PIN interface,therefor we can use YKiss to add MIDI interface and making the nice keyboard GREAT AGAIN !
+Yamaha YK-10 (YK-01/20) Keyboard is a optional part for the Yamaha CX5M Music Computer which is a great meachine with FM model build in.but the keyboard only has a 20PIN interface,therefor we can use YKiss to add MIDI interface and make the nice keyboard GREAT AGAIN !
 
 ## ✏️Material
 
@@ -17,12 +17,12 @@ No | Description
 3 | Resistor 20KΩ 
 4 | Breadboard 
 
- * please don't use the chinese chiper editon of arduino UNO, for the Mega16U2 was replaced by the CH130 usb to serial chip.
+ * please don't use the chinese cheaper editon of arduino UNO, for the Mega16U2 was replaced by the CH340 usb to serial chip.
 ## 🍤GUIDE
 
 ### STEP 1 : burn the MIDI firmware for Arduino Uno
-  we use the great project <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behive as a USB MIDI Driver,first you should follow the guide in <a href="http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en">morecat_lab</a> ,Install the dualMocoLUFA firmware to Mega8u2/16U2
-  #### download the dualMocoLUFA firmware: <a href="https://github.com/Amehinou/YKiss/blob/master/YKiss/dualMoco.hex">Mega16U2</a>
+  we use the great project <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behaved as a USB MIDI Device,first you should follow the guide in <a href="http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en">morecat_lab</a> ,Installing the dualMocoLUFA firmware to Mega8u2/16U2
+  #### download the dualMocoLUFA firmware: <a href="https://raw.githubusercontent.com/Amehinou/YKiss/blob/master/YKiss/dualMoco.hex">Mega16U2</a>
 
 ### STEP 2 : using the Arduino IDE to update program
   just burning the YKiss.ino to Arduino Uno,before connect Uno to PC, don't forget to install a jumper between pin4 and pin6 on ICSP connector for Mega8u2/16U2 when you buring the program. 
