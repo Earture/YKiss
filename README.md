@@ -50,11 +50,11 @@ No | Description
   
  * if you want to use MIDI OUTPUT cable connecting other MIDI Driver,you can make it yourself by using the TX pin
  
-## THANKS
+## 👍THANKS
 #### <a href="http://www.codetinkerhack.com/2012/11/how-to-turn-piano-toy-into-midi.html?m=1">Code Tinker Hack</a>
 #### <a href="https://groups.google.com/forum/#!topic/london-hack-space/lhE5M1SvkMQ">London Hackspaceck</a>
 #### <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a>
 
-## I'm a 8bit fan，you can contact me ！
+## 🙏I'm a 8bit fan，you can contact me ！
 my website is <a href="https://earture.org">Earture.org</a>
 
