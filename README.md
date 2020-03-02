@@ -2,7 +2,7 @@
 convert the Yamaha YK-10/20/01 to a MIDI Keyboard by only using a arduino uno
 
 <p align="center">
-  <a href="https://github.com/Amehinou/YKiss/blob/master/YKiss.jpg">
+  <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/YKiss.jpg">
     <img width=50% src="">
   </a> 
 </p>
