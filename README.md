@@ -1,4 +1,4 @@
-# YKiss
+# 🍤YKiss
 convert the Yamaha YK-10/20/01 to a MIDI Keyboard by only using a arduino uno
 
 <p align="center">
@@ -56,5 +56,5 @@ No | Description
 #### <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a>
 
 ## I'm a 8bit fan，you can contact me ！
-my website is <a href="https://earture.org>Earture.org</a>
+my website is <a href="https://earture.org">Earture.org</a>
 
