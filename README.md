@@ -1,4 +1,4 @@
-# 🍤YKiss
+# 🎹YKiss
 convert the Yamaha YK-10/20/01 to a MIDI Keyboard by only using a arduino uno
 
 <p align="center">
@@ -8,7 +8,7 @@ convert the Yamaha YK-10/20/01 to a MIDI Keyboard by only using a arduino uno
 </p>
 Yamaha YK-10 (YK-01/20) Keyboard is a optional part for the Yamaha CX5M Music Computer which is a great meachine with FM model builed in.but the keyboard only has a 20PIN interface,therefor we can use YKiss to add MIDI interface and making the nice keyboard GREAT AGAIN !
 
-## Material
+## ✏️Material
 
 No | Description 
 ---|-----------
@@ -18,7 +18,7 @@ No | Description
 4 | Breadboard 
 
  * please don't use the chinese chiper editon of arduino UNO, for the Mega16U2 was replaced by the CH130 usb to serial chip.
-## GUIDE
+## 🍤GUIDE
 
 ### STEP 1 : burn the MIDI firmware for Arduino Uno
   we use the great project <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a> to make Arduino UNO behive as a USB MIDI Driver,first you should follow the guide in <a href="http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en">morecat_lab</a> ,Install the dualMocoLUFA firmware to Mega8u2/16U2
