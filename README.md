@@ -39,7 +39,7 @@ No | Description
 ---|-----------
 11 to 16 | A0 to A5
 2 to 10 | 2 to 10
-* pleas connect 10K Pull-down resistor to all used PIN
+* please connect 20K Pull-down resistor to all used PIN
 <p align="center">
   <a href="https://raw.githubusercontent.com/Amehinou/YKiss/master/connect.jpg">
     <img width=50% src="https://raw.githubusercontent.com/Amehinou/YKiss/master/connect.jpg">
@@ -59,6 +59,6 @@ No | Description
 #### <a href="https://groups.google.com/forum/#!topic/london-hack-space/lhE5M1SvkMQ">London Hackspaceck</a>
 #### <a href="https://github.com/kuwatay/mocolufa">mocoLUFA</a>
 
-## 🙏I'm a 8bit fan，you can contact me ！
+## 🙏I'm an 8bit fan，you can contact me ！
 my website is <a href="https://earture.org">Earture.org</a>
 
